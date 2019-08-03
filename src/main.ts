@@ -1,5 +1,5 @@
 import * as Discord from 'discord.js';
-import { BotInteractions } from './bot.interactins';
+import { BotInteractions } from './bot.interactions';
 
 const auth = require('./config/auth.json');
 
