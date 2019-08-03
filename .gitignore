@@ -2,4 +2,4 @@
 /dist
 /node_modules
 
-src/config/auth.json
+/src/config/auth.json
